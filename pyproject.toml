@@ -20,4 +20,6 @@ dependencies = [
 
 [tool.poetry.group.dev.dependencies]
 arch = "^8.0.0"
+xlrd = "^2.0.2"
+openpyxl = "^3.1.5"
 
